@@ -15,17 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World!  
+          Learn React
         </a>
       </header>
-      <body >
-        
-      </body>
-<footer className="color">
-          
-        </footer>
-
-
     </div>
   );
 }

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.3e56a153.css",
-    "main.js": "/my-app/static/js/main.e383fecf.js",
-    "static/js/787.625f8f42.chunk.js": "/my-app/static/js/787.625f8f42.chunk.js",
-    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/my-app/index.html",
-    "main.3e56a153.css.map": "/my-app/static/css/main.3e56a153.css.map",
-    "main.e383fecf.js.map": "/my-app/static/js/main.e383fecf.js.map",
-    "787.625f8f42.chunk.js.map": "/my-app/static/js/787.625f8f42.chunk.js.map"
+    "main.css": "/Ash-Proj-2023/static/css/main.3e56a153.css",
+    "main.js": "/Ash-Proj-2023/static/js/main.a7d28c0d.js",
+    "static/js/787.625f8f42.chunk.js": "/Ash-Proj-2023/static/js/787.625f8f42.chunk.js",
+    "static/media/logo.svg": "/Ash-Proj-2023/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ash-Proj-2023/index.html",
+    "main.3e56a153.css.map": "/Ash-Proj-2023/static/css/main.3e56a153.css.map",
+    "main.a7d28c0d.js.map": "/Ash-Proj-2023/static/js/main.a7d28c0d.js.map",
+    "787.625f8f42.chunk.js.map": "/Ash-Proj-2023/static/js/787.625f8f42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e56a153.css",
-    "static/js/main.e383fecf.js"
+    "static/js/main.a7d28c0d.js"
   ]
 }
